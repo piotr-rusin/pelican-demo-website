@@ -99,3 +99,5 @@ ENV/
 #  pelican-plugin-installer -i %plugin_name%
 #
 plugins
+output
+cache
