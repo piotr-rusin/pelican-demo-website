@@ -35,3 +35,4 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 PLUGIN_PATHS = ['plugins']
+PLUGINS = ['summary']
