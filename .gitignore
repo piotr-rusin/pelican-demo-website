@@ -90,3 +90,12 @@ ENV/
 
 # virtualfish
 .venv
+
+# Pelican
+#  Plugins have their own third-party git repository:
+#  https://github.com/getpelican/pelican-plugins.
+#
+#  They can be installed separately by executing the following command:
+#  pelican-plugin-installer -i %plugin_name%
+#
+plugins
