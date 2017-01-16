@@ -1,3 +1,7 @@
+======================
+ Pelican Demo Website
+======================
+
 A pelican-powered website for presenting my Pelican themes.
 
 Other than Pelican_ itself, this project depends on the following packages:
